@@ -1,6 +1,6 @@
 .main {
     height: 100vh;
-    padding: 1rem;
+    padding: 0 1rem;
 
     .welcome {
         position: absolute;
@@ -98,6 +98,7 @@
 
     .section_list {
         margin-top: 45px;
+        padding-bottom: 1.5rem;
 
         .links {
             display: flex;

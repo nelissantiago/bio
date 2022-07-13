@@ -61,6 +61,10 @@
             0% { background-position: 0 -400px; }
             100% { background-position: 0 0; }
           }
+        
+          @media (max-width: 650px) {
+           right: 2%;
+         }
     }
 
     .grid {

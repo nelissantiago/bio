@@ -62,6 +62,10 @@
             100% { background-position: 0 0; }
           }
         
+           svg {
+            font-size: 1.3rem;
+          }
+        
           @media (max-width: 650px) {
            right: 2%;
               

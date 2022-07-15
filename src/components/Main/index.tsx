@@ -13,7 +13,7 @@ export function Main() {
         const name = "Nelis Santiago#2022"
         navigator.clipboard.writeText(name)
 
-        toast.notify(`${name}`, {
+        toast.notify(name, {
             duration: 5,
             type: "success",
             title: "Usuario Copiado!",
